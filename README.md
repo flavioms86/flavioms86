@@ -1,7 +1,7 @@
 ##### Uhmmm. Você por aqui?! 
 ###### Cuidado com os OVNIs. 👾
 
-#### Me chamo Flávio M. Silva 🏳️‍🌈 e a 🐶 na foto é a Meg.
+#### Me chamo Flávio M. Silva 🏳️‍🌈.
 
 - Estudo tecnologias de back-end.
 - Gosto do que é interessante, seja lá o que for.
