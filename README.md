@@ -1,9 +1,6 @@
-##### Uhmmm. Você por aqui?! 
-###### Cuidado com os OVNIs. 👾
-
 #### Me chamo Flávio M. Silva 🏳️‍🌈.
 
-- Estudo tecnologias de back-end.
+- Estudo tecnologias de back-end na Cubos Academy.
 - Gosto do que é interessante, seja lá o que for.
 - Respeite e será sempre respeitado.
 - Sou legal, juro.
@@ -26,7 +23,11 @@
 <div>
 
 <a href = "mailto:flavioms86@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flaviomsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/flaviomsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
+
+ 
+###### Cuidado com os OVNIs. 👾
+
 </div>
 🛸
 <br/>
