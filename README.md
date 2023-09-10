@@ -1,9 +1,11 @@
-#### Me chamo Flávio M. Silva 🏳️‍🌈.
+### Olá, meu nome é Flávio M. Silva 🏳️‍🌈.
 
-- Estudo tecnologias de back-end na Cubos Academy.
-- Gosto do que é interessante, seja lá o que for.
-- Respeite e será sempre respeitado.
-- Sou legal, juro.
+- 💻 Atualmente estou estudando Javascript com foco em back-end na Cubos Academy.
+- 🙋🏻‍♂️ Estou em buscando colaborar em projetos back-end usando Javascript e Node.js.
+- 📚 Estou sempre em busca de aprender algo novo.
+- 🧩 Gosto do que é interessante, seja lá o que for.
+- 🤝🏻 Respeite e será sempre respeitado.
+- 🐻 Sou legal, juro.
 
 ### Ferramentas e Tecnologias 👽
 
