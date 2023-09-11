@@ -12,11 +12,8 @@
 <img loading="lazy" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img loading="lazy" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 
 
-<div>
-<a href="https://github.com/flavioms86">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioms86&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=flavioms86&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioms86&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioms86&layout=compact&theme=vue-dark)
           
 
 
