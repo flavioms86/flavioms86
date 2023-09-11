@@ -12,9 +12,11 @@
 <img loading="lazy" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img loading="lazy" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioms86&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioms86&layout=compact&theme=vue-dark)
-          
+<div>
+<a href="https://github.com/flavioms86">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioms86&show_icons=true&theme=vue-dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioms86&layout=donut&theme=vue-dark"/>
+</div>
 
 
 ### Contatos:
