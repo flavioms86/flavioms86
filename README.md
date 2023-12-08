@@ -1,7 +1,7 @@
 ### Olá, meu nome é Flávio M. Silva 🏳️‍🌈.
 
-- 💻 Atualmente estou estudando Javascript com foco em back-end na Cubos Academy.
-- 🙋🏻‍♂️ Estou em buscando colaborar em projetos back-end usando Javascript e Node.js.
+- 💻 Possou habilidades de programação web back-end com tecnologias Node.js e Spring.
+- 🙋🏻‍♂️ Estou em buscando colaborar em projetos back-end.
 - 📚 Estou sempre em busca de aprender algo novo.
 - 🧩 Gosto do que é interessante, seja lá o que for.
 - 🤝🏻 Respeite e será sempre respeitado.
