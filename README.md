@@ -1,7 +1,7 @@
 ### Olá, meu nome é Flávio M. Silva 🏳️‍🌈.
 
-- 💻 Possou habilidades de programação web back-end com tecnologias Node.js e Spring.
-- 🙋🏻‍♂️ Estou em buscando colaborar em projetos back-end.
+- 💻 Possou habilidades em Administração de Banco de Dados SQL Server.
+- 🙋🏻‍♂️ Estou em buscando colaborar em projetos de banco de dados.
 - 📚 Estou sempre em busca de aprender algo novo.
 - 🧩 Gosto do que é interessante, seja lá o que for.
 - 🤝🏻 Respeite e será sempre respeitado.
