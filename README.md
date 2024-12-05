@@ -1,7 +1,7 @@
 ### Olá, meu nome é Flávio M. Silva 🏳️‍🌈.
 
-- 💻 Possuo habilidades em Administração de Banco de Dados no Microsoft SQL Server.
-- 🙋🏻‍♂️ Estou em buscando colaborar em projetos de banco de dados.
+- 💻 Estudando desenvolvimento Frond-End.
+- 🙋🏻‍♂️ Estou em buscando colaborar em projetos de front-end e back-end.
 - 📚 Estou sempre em busca de aprender algo novo.
 - 🧩 Gosto do que é interessante, seja lá o que for.
 - 🤝🏻 Respeite e será sempre respeitado.
