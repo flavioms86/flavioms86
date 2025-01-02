@@ -1,6 +1,6 @@
 ### Olá, meu nome é Flávio M. Silva 🏳️‍🌈.
 
-- 💻 Estudando desenvolvimento Frond-End.
+- 💻 Estudando desenvolvimento Back-End com Django.
 - 🙋🏻‍♂️ Estou em buscando colaborar em projetos de front-end e back-end.
 - 📚 Estou sempre em busca de aprender algo novo.
 - 🧩 Gosto do que é interessante, seja lá o que for.
